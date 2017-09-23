@@ -1,0 +1,34 @@
+500
+1 1 1 0
+2
+1
+Chelsey A 1300 0 0 11
+Computer N 1400 1 0 6
+TRON BANK 0
+Up Chelsey 0
+Dumbo BANK 0
+Mulan Computer 0
+Oz BANK 0
+Genius BANK 0
+PeterPan Chelsey 0
+Pooh BANK 0
+AirBud BANK 0
+Dinosaur BANK 0
+Bambi BANK 0
+Brave BANK 0
+SnowDogs BANK 0
+Holes BANK 0
+Atlantis BANK 0
+Caribean BANK 0
+Frozen BANK 0
+ToyStory BANK 0
+Miracle BANK 0
+LionKing BANK 0
+Popeye BANK 0
+Valiant BANK 0
+TheWild BANK 0
+Underdog BANK 0
+Bolt BANK 0
+Tangled BANK 0
+Cars BANK 0
+Planes BANK 0
